@@ -20,7 +20,7 @@ x`<h1 align="center">Hi, I'm Ikram Al Ghiffari</h1>
 </div>
 
 <p>
-  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Hasnybyte" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

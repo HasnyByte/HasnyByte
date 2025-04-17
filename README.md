@@ -20,7 +20,7 @@
 </div>
 
 <p>
-  <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://camo.githubusercontent.com/a8a6c123ff44a54f75c7c0e5e9d1cf110dc7898c1e5aae140749487ef17f9ebb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4861736e7942797465267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374)"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnyByte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Ikram Al Ghiffari</h1>
-<h3 align="center">Front End Developer</h3>
 
 <div align="center">
 
